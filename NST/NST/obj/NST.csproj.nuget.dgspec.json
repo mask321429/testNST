@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kiselevmaksim/Projects/NST/NST/NST.csproj": {}
+    "/Users/kiselevmaksim/RiderProjects/testNST/NST/NST/NST.csproj": {}
   },
   "projects": {
-    "/Users/kiselevmaksim/Projects/NST/NST/NST.csproj": {
+    "/Users/kiselevmaksim/RiderProjects/testNST/NST/NST/NST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kiselevmaksim/Projects/NST/NST/NST.csproj",
+        "projectUniqueName": "/Users/kiselevmaksim/RiderProjects/testNST/NST/NST/NST.csproj",
         "projectName": "NST",
-        "projectPath": "/Users/kiselevmaksim/Projects/NST/NST/NST.csproj",
+        "projectPath": "/Users/kiselevmaksim/RiderProjects/testNST/NST/NST/NST.csproj",
         "packagesPath": "/Users/kiselevmaksim/.nuget/packages/",
-        "outputPath": "/Users/kiselevmaksim/Projects/NST/NST/obj/",
+        "outputPath": "/Users/kiselevmaksim/RiderProjects/testNST/NST/NST/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kiselevmaksim/.nuget/NuGet/NuGet.Config"
@@ -42,6 +42,20 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

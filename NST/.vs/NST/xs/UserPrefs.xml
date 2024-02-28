@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{884E2E92-3041-4E08-B8EA-315B8FC7178A}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NST/Service/UserService.cs">
+    <Files>
+      <File FileName="NST/Program.cs" Line="5" Column="22" />
+      <File FileName="NST/Model/UserModel.cs" />
+      <File FileName="NST/Middleware/BadDataException.cs" />
+      <File FileName="NST/Middleware/UnAuthorizeException.cs" />
+      <File FileName="NST/appsettings.json" />
+      <File FileName="NST/DbContext/ApplicationDbContext.cs" />
+      <File FileName="NST/Service/UserServiceService.cs" Line="22" Column="38" />
+      <File FileName="NST/Middleware/ApiMiddlewareExtensions.cs" />
+      <File FileName="NST/DTO/PersonDTO.cs" Line="9" Column="47" />
+      <File FileName="NST/Controllers/PersonController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NST" expanded="True">
+            <Node name="NST">
+              <Node name="DTO" expanded="True" />
+              <Node name="Service" expanded="True">
+                <Node name="UserService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kiselevmaksim/RiderProjects/testNST/NST/NST/Controllers/Person.cs" relfile="NST/Controllers/Person.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NST PreferredExecutionTarget="/Applications/Yandex.app" />
+</Properties>
